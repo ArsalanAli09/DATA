@@ -7,3 +7,27 @@ Dirham
 Deenar
 
 Riyal
+
+Euro
+
+Peso
+
+Franc
+
+Boliviano
+
+Lev
+
+Yuan
+
+Colon
+
+Lira
+
+Koruna
+
+Pound
+
+Birr
+
+Ringgit
