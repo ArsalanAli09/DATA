@@ -5,3 +5,5 @@
 * Well Come to my file.
 
 sale currencies dal na sb hata kk
+
+currencies to nam likha hai
